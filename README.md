@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7972b59f-6f24-4de2-bbdc-680c709e26c2" /># EXP-3-Adder-sub
+# EXP-3-Adder-sub
 ## Design and Verification of Half Adder and Half Subtractor
 ### Aim
 To design and verify basic one-bit arithmetic circuits using Verilog HDL.
